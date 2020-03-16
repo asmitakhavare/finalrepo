@@ -1,7 +1,7 @@
 i have added a new file
 added 2nd line
-<<<<<<< HEAD
+
 added 4th line by asmita
-=======
+
 added 3rd line my another user
->>>>>>> 5c69e9f21baf0b69f0d1b5e81079461636831f42
+
